@@ -9,4 +9,4 @@ The Board Game Environment need only support 2-player games (but you can support
 The Board Game Environment should work by providing a player with a list of games they can play and allow them to choose which one to start.
 The Board Game Environment games should be GUI-based.
 The Board Game Environment should be written in Java.
-The Board Game Environment only needs to support running one game at a time.
+The Board Game Environment only needs to support running one game at a time
